@@ -59,6 +59,7 @@ public class Company{
         String error_file = "employees_errors.txt";
         
         System.out.println("Hello world");
+        System.out.println("Testing Submitted");
         // Scanner read = new Scanner(new File(product_file));
         
 
