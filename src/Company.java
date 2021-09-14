@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 class Product extends Employee {
     protected String ac, cctv, dish, micro, refri;
@@ -59,6 +59,7 @@ public class Company{
         String error_file = "employees_errors.txt";
         
         System.out.println("Hello world");
+        System.out.println("Push Testing");
         // Scanner read = new Scanner(new File(product_file));
         
 
